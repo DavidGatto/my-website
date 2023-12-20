@@ -7,7 +7,13 @@ import Works from "./components/pages/work/Works";
 
 function App() {
   return (
-    <div className=" bg-site bg-no-repeat bg-cover overflow-hidden">
+    <div
+      style={{
+        backgroundImage:
+          "url(https://res.cloudinary.com/dzmn27ifb/image/upload/v1703100385/fondo_ml1o4j.png)",
+      }}
+      className="bg-no-repeat bg-cover overflow-hidden"
+    >
       <Header />
       <Nav />
       <Banner />
