@@ -43,6 +43,7 @@ const About = () => {
             <div className="w-auto text-center mt-8 lg:text-justify">
               <a
                 href="./David Gatto - Resume.pdf.pdf"
+                download="David Gatto - Resume.pdf.pdf"
                 target="blank"
                 className="btn btn-lg py-4"
               >
