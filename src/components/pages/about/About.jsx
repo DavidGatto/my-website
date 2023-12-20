@@ -40,15 +40,6 @@ const About = () => {
               people's lives.
             </p>
             <p>Right now, I'm open to new opportunities.</p>
-            <div className="w-auto text-center mt-8 lg:text-justify">
-              <a
-                href="src/assets/davidgatto.pdf"
-                target="blank"
-                className="btn btn-lg py-4"
-              >
-                Download CV
-              </a>
-            </div>
           </motion.div>
         </div>
       </div>
