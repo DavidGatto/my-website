@@ -42,8 +42,8 @@ const About = () => {
             <p>Right now, I'm open to new opportunities.</p>
             <div className="w-auto text-center mt-8 lg:text-justify">
               <a
-                href="src/assets/David Gatto - Resume.pdf"
-                download="David Gatto - Resume.pdf"
+                href="/assets/David Gatto - Resume.pdf.pdf"
+                download="David Gatto - Resume.pdf.pdf"
                 target="blank"
                 className="btn btn-lg py-4"
               >
