@@ -22,7 +22,7 @@ const Works = () => {
                 My Latest <br />
                 Works
               </h2>
-              <p className="max-w-sm mb-12">
+              <p className="max-w-sm ">
                 I present to you some of my most notable projects, where I have
                 had the opportunity to demonstrate and perfect my skills.
                 Explore these creations that reflect my passion and skill!
@@ -38,7 +38,7 @@ const Works = () => {
                 <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
                 {/* img */}
                 <img
-                  className="lg:h-[275px] group-hover:scale-150 transition-all duration-500"
+                  className="lg:h-[260px] w-full group-hover:scale-150 transition-all duration-500"
                   src="https://res.cloudinary.com/dzmn27ifb/image/upload/v1703079458/Opera_Instant%C3%A1nea_2023-12-20_030416_eccomerce-nft.vercel.app_jc7pdq.png"
                   alt="ecommerce-nft"
                 />
@@ -70,7 +70,7 @@ const Works = () => {
                 <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
                 {/* img */}
                 <img
-                  className="lg:h-[275px] group-hover:scale-150 transition-all duration-500"
+                  className="lg:h-[260px] w-full group-hover:scale-150 transition-all duration-500"
                   src="https://res.cloudinary.com/dzmn27ifb/image/upload/v1703079468/Opera_Instant%C3%A1nea_2023-12-20_030621_davidgatto.github.io_obxktq.png"
                   alt="ecommerce-nft"
                 />
@@ -94,7 +94,7 @@ const Works = () => {
                 <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
                 {/* img */}
                 <img
-                  className="lg:h-[275px] w-full group-hover:scale-150 transition-all duration-500"
+                  className="lg:h-[260px] w-full] w-full group-hover:scale-150 transition-all duration-500"
                   src="https://res.cloudinary.com/dzmn27ifb/image/upload/v1703079520/project-2_wlzuic.png"
                   alt="ecommerce-nft"
                 />
