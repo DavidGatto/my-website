@@ -43,7 +43,6 @@ const About = () => {
             <div className="w-auto text-center mt-8 lg:text-justify">
               <a
                 href="src/assets/davidgatto.pdf"
-                download="davidgatto.pdf"
                 target="blank"
                 className="btn btn-lg py-4"
               >
