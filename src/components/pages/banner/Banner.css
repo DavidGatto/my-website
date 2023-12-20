@@ -1,0 +1,14 @@
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.img-me {
+  animation: bounce 3s infinite;
+  filter: drop-shadow(10px 10px 40px rgb(0, 0, 114));
+}
