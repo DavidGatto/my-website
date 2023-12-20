@@ -41,7 +41,12 @@ const About = () => {
             </p>
             <p>Right now, I'm open to new opportunities.</p>
             <div className="w-auto text-center mt-8 lg:text-justify">
-              <a href="" className="btn btn-lg py-4">
+              <a
+                href="src\assets\David Gatto - Resume.pdf"
+                download="David Gatto - Resume.pdf"
+                target="blank"
+                className="btn btn-lg py-4"
+              >
                 Download CV
               </a>
             </div>
